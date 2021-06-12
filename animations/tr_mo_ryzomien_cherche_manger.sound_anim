@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="2.233335">
+    <SOUND name="ryzomien_resp_rnd"/>
+  </MARKER>
+  <MARKER time="3.733335">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="4.133335">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="4.833336">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.866669">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="7.133335">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="7.666670">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="8.166670">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.054031">
+    <SOUND name="ryzomien_resp_rnd"/>
+  </MARKER>
+  <MARKER time="1.153684">
+    <SOUND name="ryzomien_ecailles_rnd"/>
+  </MARKER>
+  <MARKER time="7.700000">
+    <SOUND name="ryzomien_ecailles_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

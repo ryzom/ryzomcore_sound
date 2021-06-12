@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.100000">
+    <SOUND name="mektoub_death_rnd"/>
+  </MARKER>
+  <MARKER time="1.183333">
+    <SOUND name="cuir_rnd"/>
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="1.503333">
+    <SOUND name="__fall_1"/>
+  </MARKER>
+</SOUNDANIMATION>

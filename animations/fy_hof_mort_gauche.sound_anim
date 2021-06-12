@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.786667">
+    <SOUND name="__fall_1"/>
+  </MARKER>
+  <MARKER time="0.300000">
+    <SOUND name="fem_deathx"/>
+  </MARKER>
+</SOUNDANIMATION>

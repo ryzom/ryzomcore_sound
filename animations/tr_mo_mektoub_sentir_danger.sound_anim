@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.233333">
+    <SOUND name="cuir_hi_rnd"/>
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.866667">
+    <SOUND name="cochon_renifle_rnd"/>
+  </MARKER>
+  <MARKER time="2.846667">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.733333">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.800000">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.533333">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="3.300000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="3.933333">
+    <SOUND name="mektoub_resp_rnd"/>
+  </MARKER>
+  <MARKER time="5.200000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

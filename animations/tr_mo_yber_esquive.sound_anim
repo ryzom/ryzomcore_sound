@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.066667">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="0.700000">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="c03_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.300000">
+    <SOUND name="c03_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.333333">
+    <SOUND name="c03_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.466667">
+    <SOUND name="c03_step_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.433333">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.500001">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.733334">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.700001">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.833334">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.133333">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.233334">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.666667">
+    <SOUND name="ryz_resp_rnd"/>
+  </MARKER>
+  <MARKER time="2.726667">
+    <SOUND name="ryz_resp_rnd"/>
+  </MARKER>
+  <MARKER time="5.000000">
+    <SOUND name="ryzerb_cherche"/>
+  </MARKER>
+</SOUNDANIMATION>

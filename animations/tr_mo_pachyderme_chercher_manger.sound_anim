@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.433333">
+    <SOUND name="arma_inter_rnd"/>
+  </MARKER>
+  <MARKER time="3.280000">
+    <SOUND name="raton_eat"/>
+  </MARKER>
+  <MARKER time="2.733333">
+    <SOUND name="arrache_herbe"/>
+  </MARKER>
+</SOUNDANIMATION>

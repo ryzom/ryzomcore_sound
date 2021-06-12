@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.466667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.600000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.866667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.296667">
+    <SOUND name="cococlaw_attack_rnd"/>
+  </MARKER>
+  <MARKER time="1.923333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.100000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.386667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.623333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.763333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.770000">
+    <SOUND name="crustace_deplight_rnd"/>
+  </MARKER>
+  <MARKER time="1.258648">
+    <SOUND name="crustace_deplight_rnd"/>
+  </MARKER>
+  <MARKER time="1.814331">
+    <SOUND name="crustace_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

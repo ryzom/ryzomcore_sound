@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.840000">
+    <SOUND name="gibbai_grr_rnd"/>
+  </MARKER>
+  <MARKER time="6.050661">
+    <SOUND name="gibbai_grr_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

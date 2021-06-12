@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.683334">
+    <SOUND name="sapenslaver_move_0"/>
+  </MARKER>
+  <MARKER time="4.383334">
+    <SOUND name="sapenslaver_move_2"/>
+  </MARKER>
+</SOUNDANIMATION>

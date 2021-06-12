@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.784999">
+    <SOUND name="cococlaw_attack_rnd"/>
+  </MARKER>
+  <MARKER time="0.488333">
+    <SOUND name="crustace_deplight_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

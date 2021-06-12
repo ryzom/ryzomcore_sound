@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <ARRAY Name="Items">
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_MAIRIE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_HALL_CONSEIL"/>
+        <ATOM Name="Sound" Value="cluster_cosy_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_HALL_VITRINE"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_HALL_REUNION"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_AUTEL_KAMIQUE"/>
+        <ATOM Name="Sound" Value="cluster_autelkamique.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_BAR"/>
+        <ATOM Name="Sound" Value="cluster_tavern.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_APPART_JOUEUR"/>
+        <ATOM Name="Sound" Value="cluster_cosy_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_MODULE_MAIRIE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="ZO_SG_PIECE_NPC"/>
+        <ATOM Name="Sound" Value="cluster_cosy_creak.sound"/>
+      </STRUCT>
+    </ARRAY>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>

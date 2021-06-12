@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.659999">
+    <SOUND name="kamiguard_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.014000">
+    <SOUND name="coureur_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

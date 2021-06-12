@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.606667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.633333">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="3.046667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="4.740000">
+    <SOUND name="cute_what"/>
+  </MARKER>
+  <MARKER time="0.806667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.833333">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="3.233333">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

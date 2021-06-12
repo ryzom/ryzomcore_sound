@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.766666">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="1.280000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.766666">
+    <SOUND name="kitin_step_x"/>
+  </MARKER>
+  <MARKER time="3.000000">
+    <SOUND name="kitin_step_x"/>
+  </MARKER>
+  <MARKER time="0.583333">
+    <SOUND name="kitin_deplight_rnd"/>
+  </MARKER>
+  <MARKER time="1.396667">
+    <SOUND name="kitin_deplight_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

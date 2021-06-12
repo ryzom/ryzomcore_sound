@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.200000">
+    <SOUND name="kitin_deplight_rnd"/>
+  </MARKER>
+  <MARKER time="0.673333">
+    <SOUND name="big_creature_eats_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

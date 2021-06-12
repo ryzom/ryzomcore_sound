@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.933333">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="2.266667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.700000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="4.266667">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="7.800000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="8.933334">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="9.500000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="10.233334">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+</SOUNDANIMATION>

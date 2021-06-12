@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.400000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.800000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="1.200000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="1.466667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.433333">
+    <SOUND name="arma_inter_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

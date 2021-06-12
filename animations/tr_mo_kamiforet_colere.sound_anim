@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.238332">
+    <SOUND name="kamiforet_colere_0"/>
+  </MARKER>
+  <MARKER time="1.066667">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.900000">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.466667">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="3.384324">
+    <SOUND name="kamiforet_colere_1"/>
+  </MARKER>
+</SOUNDANIMATION>

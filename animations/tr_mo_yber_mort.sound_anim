@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.233334">
+    <SOUND name="kazoar_death_rnd"/>
+  </MARKER>
+  <MARKER time="0.298333">
+    <SOUND name="__fall_1"/>
+    <SOUND name="__fall_0"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.614999">
+    <SOUND name="___explozmute"/>
+    <SOUND name="ryz_step_2_2"/>
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.533333">
+    <SOUND name="___explozmute"/>
+    <SOUND name="ryz_step_2_3"/>
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.480000">
+    <SOUND name="ryzerb_attack_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.066667">
+    <SOUND name="mektoub_hit_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <ARRAY Name="Items">
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_APPART_JOUEUR"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_HALL_CONSEIL"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_SALLE_NPC"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_warschool"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_TAVERNE"/>
+        <ATOM Name="Sound" Value="cluster_tavern.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_SMOKEHOUSE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_SMOKEHOUSE_HAMAM"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_MAIRIE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_FORGE"/>
+        <ATOM Name="Sound" Value="cluster_rumble_creak_low.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_HALL_VITRINE"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_TRYKERINN"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="FY_SG_OASISINN"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+    </ARRAY>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.469470">
+    <SOUND name="swarmplant_idle_rnd"/>
+  </MARKER>
+  <MARKER time="2.429466">
+    <SOUND name="swarmplant_idle_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

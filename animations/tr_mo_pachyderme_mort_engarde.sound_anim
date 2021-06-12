@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.366666">
+    <SOUND name="arma_death_rnd"/>
+  </MARKER>
+  <MARKER time="0.616666">
+    <SOUND name="kitin_fall_x"/>
+  </MARKER>
+</SOUNDANIMATION>

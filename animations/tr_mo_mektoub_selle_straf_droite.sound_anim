@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.266667">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.633333">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.840000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="0.641287">
+    <SOUND name="mektoub_pack_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

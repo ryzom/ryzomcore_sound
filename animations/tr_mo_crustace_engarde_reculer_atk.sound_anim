@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.266667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.433333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.566667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.900000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.358333">
+    <SOUND name="cococlaw_attack_rnd"/>
+  </MARKER>
+  <MARKER time="0.600000">
+    <SOUND name="__woof_hi_rnd"/>
+  </MARKER>
+  <MARKER time="0.633333">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

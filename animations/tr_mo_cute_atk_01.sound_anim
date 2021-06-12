@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.710000">
+    <SOUND name="cute_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.870000">
+    <SOUND name="cute_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.350000">
+    <SOUND name="cute_attack_rnd"/>
+  </MARKER>
+  <MARKER time="0.303333">
+    <SOUND name="__woof_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

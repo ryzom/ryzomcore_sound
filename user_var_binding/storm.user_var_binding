@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <ATOM Name="Name" Value="storm"/>
+    <ATOM Name="ParamId" Value="Gain controler"/>
+    <ARRAY Name="Sounds">
+      <ATOM Value="weather_forest_thunder1.sound"/>
+      <ATOM Value="weather_plain_thunder1.sound"/>
+      <ATOM Value="weather_sand_thunder1.sound"/>
+      <ATOM Value="weather_water_thunder1.sound"/>
+    </ARRAY>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>

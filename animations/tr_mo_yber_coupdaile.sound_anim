@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.066667">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="0.500000">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="0.900000">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="0.236667">
+    <SOUND name="kazoar_attack_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.300001">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.566669">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.033333">
+    <SOUND name="cape_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

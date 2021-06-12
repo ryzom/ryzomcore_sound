@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.396667">
+    <SOUND name="_hom_attack_light_rnd"/>
+  </MARKER>
+  <MARKER time="0.327003">
+    <SOUND name="__woof_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

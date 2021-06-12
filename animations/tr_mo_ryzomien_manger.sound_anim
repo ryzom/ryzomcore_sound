@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.560000">
+    <SOUND name="arma_eat"/>
+  </MARKER>
+  <MARKER time="5.399988">
+    <SOUND name="arma_eat"/>
+  </MARKER>
+</SOUNDANIMATION>

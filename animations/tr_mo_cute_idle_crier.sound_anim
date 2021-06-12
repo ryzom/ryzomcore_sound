@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.666667">
+    <SOUND name="cute_scream2"/>
+  </MARKER>
+  <MARKER time="2.383333">
+    <SOUND name="cute_scream"/>
+  </MARKER>
+</SOUNDANIMATION>

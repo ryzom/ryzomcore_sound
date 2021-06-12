@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <ARRAY Name="Items">
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_APPART_JOUEUR"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_HALL_CONSEIL"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_HALL_VITRINE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_HALL_REUNION"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_SALLE_NPC"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_AUTEL_KAMIQUE"/>
+        <ATOM Name="Sound" Value="cluster_autelkamique.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_MAIRIE_ANNEXE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_BOUGEON_ATELIER"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_MODULE_COMMERCE"/>
+        <ATOM Name="Sound" Value="cluster_cosy.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_BAR_INTERIEUR"/>
+        <ATOM Name="Sound" Value="cluster_tavern.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_MAIRIE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big_creak.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_SERRE"/>
+        <ATOM Name="Sound" Value="cluster_serre.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_COUL_REUN_VITRIN"/>
+        <ATOM Name="Sound" Value="cluster_couloir.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_COULOIR_MAIRIE"/>
+        <ATOM Name="Sound" Value="cluster_couloir.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="MA_SG_COULOIR_SERRE"/>
+        <ATOM Name="Sound" Value="cluster_couloir.sound"/>
+      </STRUCT>
+    </ARRAY>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>

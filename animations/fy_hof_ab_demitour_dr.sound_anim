@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.366667">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="0.800000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="1.300000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.630000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.226667">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="3.920000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="4.170000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.425000">
+    <SOUND name="mektoub_renifl_rnd"/>
+  </MARKER>
+  <MARKER time="0.200000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="3.380000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

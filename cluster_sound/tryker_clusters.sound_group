@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <ARRAY Name="Items">
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_Piece_NPC"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_appart"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_Hall_conseil"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_Hall_vitrine"/>
+        <ATOM Name="Sound" Value="cluster_cosy_big.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_Hall_reunion"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_SAUCISSE"/>
+        <ATOM Name="Sound" Value="cluster_cosy_water.sound"/>
+      </STRUCT>
+      <STRUCT>
+        <ATOM Name="SoundGroup" Value="TR_SG_MODULE_KAMI"/>
+        <ATOM Name="Sound" Value="cluster_autelkamique.sound"/>
+      </STRUCT>
+    </ARRAY>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>

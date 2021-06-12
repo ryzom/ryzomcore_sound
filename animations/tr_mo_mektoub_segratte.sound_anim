@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.620000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.520000">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.066667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="7.566667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="8.366667">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.146667">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.200000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="2.033333">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="4.900000">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+  <MARKER time="3.648333">
+    <SOUND name="mektoub_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

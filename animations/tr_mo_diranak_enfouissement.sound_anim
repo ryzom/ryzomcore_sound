@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="enfouisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.400000">
+    <SOUND name="enfouisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.286667">
+    <SOUND name="enfouisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.533333">
+    <SOUND name="enfouisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.446667">
+    <SOUND name="crustace_deplight_rnd"/>
+    <SOUND name="enfouisse_rnd"/>
+  </MARKER>
+  <MARKER time="2.766667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.866667">
+    <SOUND name="crustace_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

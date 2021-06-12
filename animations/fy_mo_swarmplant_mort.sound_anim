@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.399998">
+    <SOUND name="swarmplant_death_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

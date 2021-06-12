@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.466663">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.899998">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.933331">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.333332">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.359992">
+    <SOUND name="ryz_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.133333">
+    <SOUND name="arma_step_x"/>
+    <SOUND name="arma_resp_rnd"/>
+  </MARKER>
+  <MARKER time="0.266667">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="0.366667">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="0.566667">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="0.666667">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="0.766667">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="0.900000">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="1.033333">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+  <MARKER time="1.133333">
+    <SOUND name="arma_step_x"/>
+  </MARKER>
+</SOUNDANIMATION>

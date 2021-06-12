@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.154999">
+    <SOUND name="coureur_resp_rnd"/>
+  </MARKER>
+  <MARKER time="0.376665">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.514998">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.706667">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.811667">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.878333">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.236667">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.466665">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.739999">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.066667">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.966667">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

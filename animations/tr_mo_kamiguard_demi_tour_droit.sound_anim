@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.600000">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="0.933334">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="1.400000">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="1.799999">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="2.400000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.633333">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.700001">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="2.799999">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="1.188333">
+    <SOUND name="kamiguard_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

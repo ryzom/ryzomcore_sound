@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.675255">
+    <SOUND name="swarmplant_attack_rnd"/>
+  </MARKER>
+  <MARKER time="0.282888">
+    <SOUND name="sapenslaver_move_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

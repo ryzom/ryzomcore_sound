@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.099999">
+    <SOUND name="kitin_hit_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.666667">
+    <SOUND name="raton_sneeze_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

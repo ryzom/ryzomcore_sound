@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.733333">
+    <SOUND name="sapenslaver_move_rnd"/>
+    <SOUND name="carnitree_attack_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

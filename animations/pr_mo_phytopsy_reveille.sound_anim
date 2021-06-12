@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.400000">
+    <SOUND name="popout"/>
+  </MARKER>
+  <MARKER time="1.040000">
+    <SOUND name="popin"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.100000">
+    <SOUND name="arma_move_rnd"/>
+    <SOUND name="arma_resp_rnd"/>
+  </MARKER>
+  <MARKER time="0.466667">
+    <SOUND name="cuir_hi_rnd"/>
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="0.800000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

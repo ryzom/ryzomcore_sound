@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.416666">
+    <SOUND name="gibbai_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.133331">
+    <SOUND name="gibbai_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.266666">
+    <SOUND name="__woof_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

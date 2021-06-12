@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="2.100001">
+    <SOUND name="popin"/>
+  </MARKER>
+  <MARKER time="0.174897">
+    <SOUND name="phytopsy_attack0"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.333333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.533333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.800000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.033333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.103333">
+    <SOUND name="crustace_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

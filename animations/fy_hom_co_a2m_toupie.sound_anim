@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.600000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="1.100000">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="1.233333">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="0.133333">
+    <SOUND name="_hom_step_x"/>
+  </MARKER>
+  <MARKER time="0.360000">
+    <SOUND name="__woof_rnd"/>
+    <SOUND name="_hom_attack_light_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

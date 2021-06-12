@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.533333"/>
+  <MARKER time="0.533333">
+    <SOUND name="__woof_rnd"/>
+  </MARKER>
+  <MARKER time="0.566667">
+    <SOUND name="mektoub_attack_rnd"/>
+  </MARKER>
+  <MARKER time="1.233333">
+    <SOUND name="mektoub_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.226667">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.335000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.406667">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.490000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.233333">
+    <SOUND name="chien_grr_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

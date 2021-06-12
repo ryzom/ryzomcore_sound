@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="__woof_1"/>
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.400001">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.093334">
+    <SOUND name="frahar_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

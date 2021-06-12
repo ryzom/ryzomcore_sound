@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.233334">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="0.900001">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="1.566668">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="2.233334">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="2.900001">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="3.566668">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="4.233334">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+  <MARKER time="4.900001">
+    <SOUND name="_wing_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

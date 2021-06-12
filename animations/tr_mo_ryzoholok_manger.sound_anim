@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.866665">
+    <SOUND name="ryzerb_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.833332">
+    <SOUND name="ryzerb_cherche"/>
+  </MARKER>
+  <MARKER time="4.000000">
+    <SOUND name="arrache_herbe"/>
+  </MARKER>
+  <MARKER time="4.366667">
+    <SOUND name="arma_eat"/>
+  </MARKER>
+</SOUNDANIMATION>

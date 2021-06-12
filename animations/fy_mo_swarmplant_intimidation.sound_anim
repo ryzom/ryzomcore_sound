@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="3.116665">
+    <SOUND name="swarmplant_cri"/>
+  </MARKER>
+  <MARKER time="2.404706">
+    <SOUND name="sapenslaver_move_rnd"/>
+  </MARKER>
+  <MARKER time="3.864684">
+    <SOUND name="sapenslaver_move_rnd"/>
+  </MARKER>
+  <MARKER time="6.105646">
+    <SOUND name="sapenslaver_move_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

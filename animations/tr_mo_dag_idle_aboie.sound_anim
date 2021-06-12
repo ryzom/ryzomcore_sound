@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.820000">
+    <SOUND name="raton_attack_rnd"/>
+  </MARKER>
+  <MARKER time="3.143333">
+    <SOUND name="raton_attack_rnd"/>
+  </MARKER>
+  <MARKER time="3.330000">
+    <SOUND name="raton_attack_rnd"/>
+  </MARKER>
+  <MARKER time="1.027331">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.926667">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="3.956666">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

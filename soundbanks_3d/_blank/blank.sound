@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision$" State="modified">
+  <STRUCT>
+    <VSTRUCT DfnName="simple_sound.dfn" Name="SoundType">
+      <ATOM Name="Filename" Value="blank.wav"/>
+    </VSTRUCT>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG>Thu Sep 11 11:10:39 2003 (Mobo) .SoundType = simple_sound.dfn
+Thu Sep 11 11:10:39 2003 (Mobo) .SoundType.Filename = blank.wav</LOG>
+</FORM>

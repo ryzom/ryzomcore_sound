@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.290000">
+    <SOUND name="ryz_resp_rnd"/>
+  </MARKER>
+  <MARKER time="2.343917">
+    <SOUND name="ryz_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

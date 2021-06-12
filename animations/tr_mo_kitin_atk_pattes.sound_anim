@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.485000">
+    <SOUND name="kitin_step_x"/>
+  </MARKER>
+  <MARKER time="0.463333">
+    <SOUND name="kitin_woof_rnd"/>
+  </MARKER>
+  <MARKER time="0.533333">
+    <SOUND name="kitin_attack_rnd"/>
+  </MARKER>
+  <MARKER time="1.466667">
+    <SOUND name="kitin_step_x"/>
+  </MARKER>
+  <MARKER time="1.766667">
+    <SOUND name="kitin_step_x"/>
+  </MARKER>
+  <MARKER time="0.433333">
+    <SOUND name="kitin_deplourd_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

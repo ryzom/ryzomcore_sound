@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.358333">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.618333">
+    <SOUND name="raton_step_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.583333">
+    <SOUND name="coureur_resp_rnd"/>
+  </MARKER>
+  <MARKER time="2.045999">
+    <SOUND name="coureur_inter_rnd"/>
+  </MARKER>
+  <MARKER time="4.029978">
+    <SOUND name="coureur_resp_rnd"/>
+  </MARKER>
+  <MARKER time="7.022991">
+    <SOUND name="raton_sneeze_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

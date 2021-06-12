@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.666667">
+    <SOUND name="claphand_rnd"/>
+  </MARKER>
+  <MARKER time="0.933333">
+    <SOUND name="claphand_rnd"/>
+  </MARKER>
+  <MARKER time="1.300000">
+    <SOUND name="claphand_rnd"/>
+  </MARKER>
+  <MARKER time="1.500000">
+    <SOUND name="claphand_rnd"/>
+  </MARKER>
+  <MARKER time="1.766667">
+    <SOUND name="claphand_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

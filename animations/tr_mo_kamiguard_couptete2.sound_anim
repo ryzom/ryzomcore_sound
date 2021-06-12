@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.500000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.766666">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.680000">
+    <SOUND name="kamiguard_attack_rnd"/>
+  </MARKER>
+  <MARKER time="1.000000">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="1.500000">
+    <SOUND name="chien_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.733334">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

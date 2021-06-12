@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.533333">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+  <MARKER time="1.200000">
+    <SOUND name="kamiguard_pas_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

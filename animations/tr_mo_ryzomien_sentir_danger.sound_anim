@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.873332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.933332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.233332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.433332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.833332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="3.033331">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="3.433332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="4.433332">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.366667">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="5.666666">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.266665">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.366667">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.566664">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="6.826667">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="9.266665">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="9.600000">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="9.699999">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="10.299999">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.333333">
+    <SOUND name="ryzomien_resp_rnd"/>
+  </MARKER>
+  <MARKER time="6.033333">
+    <SOUND name="ryzomien_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

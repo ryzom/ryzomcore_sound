@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.966667">
+    <SOUND name="___explozmute"/>
+    <SOUND name="___explozmutelong"/>
+    <SOUND name="ryz_step_2_2"/>
+    <SOUND name="ryzerb_step_rnd"/>
+    <SOUND name="___sub"/>
+  </MARKER>
+  <MARKER time="1.971667">
+    <SOUND name="___explozmute"/>
+    <SOUND name="___explozmutelong"/>
+    <SOUND name="ryz_step_2_3"/>
+    <SOUND name="ryzerb_step_rnd"/>
+    <SOUND name="___sub"/>
+  </MARKER>
+  <MARKER time="0.233333">
+    <SOUND name="ryzerb_cri"/>
+  </MARKER>
+</SOUNDANIMATION>

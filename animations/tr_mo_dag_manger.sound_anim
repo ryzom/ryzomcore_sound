@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.786667">
+    <SOUND name="raton_eat"/>
+  </MARKER>
+  <MARKER time="3.066667">
+    <SOUND name="cochon_renifle_rnd"/>
+  </MARKER>
+  <MARKER time="4.600000"/>
+  <MARKER time="4.600000">
+    <SOUND name="raton_eat"/>
+  </MARKER>
+</SOUNDANIMATION>

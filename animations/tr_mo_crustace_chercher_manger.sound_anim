@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.666667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.800000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.066667">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.200000">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="1.400000">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="1.933333">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="2.133333">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="2.200000">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.366667">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="2.433333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.533333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="2.733333">
+    <SOUND name="crustace_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.466667">
+    <SOUND name="crustace_resp_rnd"/>
+  </MARKER>
+  <MARKER time="0.633333">
+    <SOUND name="crustace_deplight_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

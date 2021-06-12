@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="5.673334">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="7.553334">
+    <SOUND name="ryzomien_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.666667">
+    <SOUND name="ryzomien_ecailles_rnd"/>
+  </MARKER>
+  <MARKER time="1.066667">
+    <SOUND name="ryzomien_resp_rnd"/>
+  </MARKER>
+  <MARKER time="4.066667">
+    <SOUND name="cuir_hi_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

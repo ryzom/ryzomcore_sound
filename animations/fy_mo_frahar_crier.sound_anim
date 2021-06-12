@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.276667">
+    <SOUND name="frahar_cri"/>
+  </MARKER>
+  <MARKER time="0.408334">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+  <MARKER time="0.566668">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+  <MARKER time="0.700001">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+  <MARKER time="0.866668">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+  <MARKER time="1.000001">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+  <MARKER time="1.173334">
+    <SOUND name="chest_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

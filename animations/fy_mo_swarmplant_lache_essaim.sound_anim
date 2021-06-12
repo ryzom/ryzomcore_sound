@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.146666">
+    <SOUND name="swarmplant_attack_rnd"/>
+  </MARKER>
+  <MARKER time="0.822582">
+    <SOUND name="popin"/>
+  </MARKER>
+  <MARKER time="0.979563">
+    <SOUND name="popin"/>
+  </MARKER>
+</SOUNDANIMATION>

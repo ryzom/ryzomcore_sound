@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.160668">
+    <SOUND name="raton_hit_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

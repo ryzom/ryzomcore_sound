@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.633333">
+    <SOUND name="__fall_4"/>
+  </MARKER>
+  <MARKER time="0.050000">
+    <SOUND name="frahar_death_rnd"/>
+  </MARKER>
+  <MARKER time="0.364162">
+    <SOUND name="__fall_2"/>
+    <SOUND name="cape_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

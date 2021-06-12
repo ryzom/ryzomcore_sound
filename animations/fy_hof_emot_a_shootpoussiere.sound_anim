@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.650000">
+    <SOUND name="___dirt_rnd"/>
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

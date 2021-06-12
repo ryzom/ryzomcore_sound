@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.828333">
+    <SOUND name="horse_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.188333">
+    <SOUND name="coureur_death_rnd"/>
+  </MARKER>
+  <MARKER time="1.601667">
+    <SOUND name="__fall_2"/>
+  </MARKER>
+  <MARKER time="1.580000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

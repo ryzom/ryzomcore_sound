@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.122626">
+    <SOUND name="_fem_emot_victory"/>
+  </MARKER>
+  <MARKER time="1.823947">
+    <SOUND name="_fem_attack_light_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

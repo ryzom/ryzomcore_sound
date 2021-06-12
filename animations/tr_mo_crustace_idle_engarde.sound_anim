@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.866667">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="1.067500">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="1.400000">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+  <MARKER time="1.633333">
+    <SOUND name="pince_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

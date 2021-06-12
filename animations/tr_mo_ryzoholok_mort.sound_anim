@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.066663">
+    <SOUND name="ryzerb_death_rnd"/>
+  </MARKER>
+  <MARKER time="1.066663">
+    <SOUND name="___explozmute"/>
+    <SOUND name="__fall_3"/>
+    <SOUND name="__fall_4"/>
+    <SOUND name="ryz_step_2_3"/>
+  </MARKER>
+  <MARKER time="0.306667">
+    <SOUND name="cuir_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

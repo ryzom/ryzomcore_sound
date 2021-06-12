@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.433659">
+    <SOUND name="phytopsy_idle_rnd"/>
+  </MARKER>
+  <MARKER time="2.226311">
+    <SOUND name="phytopsy_idle_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="3.799999">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="4.285000">
+    <SOUND name="pas_glisse_rnd"/>
+  </MARKER>
+  <MARKER time="3.267999">
+    <SOUND name="chien_etire"/>
+  </MARKER>
+  <MARKER time="1.322998">
+    <SOUND name="chien_renifl_rnd"/>
+  </MARKER>
+  <MARKER time="2.242997">
+    <SOUND name="chien_whin_rnd"/>
+  </MARKER>
+  <MARKER time="0.073975">
+    <SOUND name="chien_etire1"/>
+  </MARKER>
+</SOUNDANIMATION>

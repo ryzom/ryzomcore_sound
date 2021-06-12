@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.280000">
+    <SOUND name="ryzerb_attack_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

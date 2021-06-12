@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="1.000000">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.966667">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.300000">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="1.333334">
+    <SOUND name="frahar_step_rnd"/>
+  </MARKER>
+  <MARKER time="0.700000">
+    <SOUND name="cape_rnd"/>
+  </MARKER>
+  <MARKER time="1.166667">
+    <SOUND name="cape_rnd"/>
+  </MARKER>
+  <MARKER time="0.366667">
+    <SOUND name="frahar_resp_rnd"/>
+  </MARKER>
+  <MARKER time="1.304999">
+    <SOUND name="frahar_resp_rnd"/>
+  </MARKER>
+</SOUNDANIMATION>

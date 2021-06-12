@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="raton_death_rnd"/>
+  </MARKER>
+  <MARKER time="0.693333">
+    <SOUND name="fall_small"/>
+  </MARKER>
+</SOUNDANIMATION>

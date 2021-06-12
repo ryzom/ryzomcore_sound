@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SOUNDANIMATION>
+  <MARKER time="0.166667">
+    <SOUND name="phytopsy_attack"/>
+  </MARKER>
+</SOUNDANIMATION>
