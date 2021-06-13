@@ -15,3 +15,9 @@ Further contributions to this repository are copyright (C) their respective auth
 **Q**: If I use this repository, and create my own sound library, do I need to release my sound effects under a free license?
 
 **A**: No. Assets are licensed individually, and your XML sound sheets and sound sample wave banks are not derivative works of any assets within this repository. It's your own choice whether you want to release your sound effects under a free license. Any modifications to the assets already contained in this repository must be released under the same license.
+
+---
+
+**Q**: Where are the sounds?
+
+**A**: Sounds from the Ryzom game cannot be released under a free license, as they contain samples from commercial sample libraries.
